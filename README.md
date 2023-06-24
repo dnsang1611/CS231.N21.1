@@ -12,3 +12,12 @@ Please have opencv, numpy, matplotlib and mediapipe installed on your device
 *Segmentation:* ```python segmentation.py``` <br>
 *Draw Brute force plot:* ```python plot_eye_state.py``` <br>
 *Speed test:* ```python speed_capture.py```
+
+# 3. CHANGE BACKGROUND.  
+
+## Requirements:  
+Please install opencv, numpy, cvzone, os, imageio before run code.
+## Instructions:
+* In change_background:  
+The gif folder contains file.gif, you can add gif to that folder. Note the size of the gif file.  
+```python change_background.py``` to run change background model
