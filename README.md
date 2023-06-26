@@ -25,5 +25,5 @@ The gif folder contains file.gif, you can add gif to that folder. Note the size 
 ## Requirements:
 Please have opencv, numpy, mediapipe and PIL already installed on your local workspace.
 ## Instructions:
-*End to end:* ```main.py```. This's also the main source.
+*End to end:* ```main.py```. This's also the main source. <br>
 The image and gif inputs are placed in the same level with source ```main.py```, do not group them.
