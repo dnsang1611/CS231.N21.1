@@ -14,10 +14,16 @@ Please have opencv, numpy, matplotlib and mediapipe installed on your device
 *Speed test:* ```python speed_capture.py```
 
 # 3. CHANGE BACKGROUND.  
-
 ## Requirements:  
 Please install opencv, numpy, cvzone, os, imageio before run code.
 ## Instructions:
 * In change_background:  
 The gif folder contains file.gif, you can add gif to that folder. Note the size of the gif file.  
 ```python change_background.py``` to run change background model
+
+# 4. Goku effects
+## Requirements:
+Please have opencv, numpy, mediapipe and PIL already installed on your local workspace.
+## Instructions:
+*End to end:* ```main.py```. This's also the main source.
+The image and gif inputs are placed in the same level with source ```main.py```, do not group them.
