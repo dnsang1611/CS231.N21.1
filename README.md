@@ -20,7 +20,7 @@ Please have opencv, numpy, mediapipe and PIL already installed on your local wor
 *End to end:* ```main.py```. This's also the main source. <br>
 The image and gif inputs are placed in the same level with source ```main.py```, do not group them.
 
-# 4. CHANGE BACKGROUND.  
+# 4. CHANGE BACKGROUND WITH HAND.  
 ## Requirements:  
 Please install opencv, numpy, cvzone, os, imageio before run code.
 ## Instructions:
